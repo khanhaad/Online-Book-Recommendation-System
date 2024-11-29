@@ -41,7 +41,7 @@ This website offers recommendation system for books based on collaborative filte
 
 ### Configure Database Connection (if necessary)
 
-- Locate the database configuration file in your project i.e. dbConnect.php.
+- Locate the database configuration file in your project i.e. dbconnect.php.
 - Update the following values if needed:
     ```php
     $hostname = 'localhost';      // Database host
