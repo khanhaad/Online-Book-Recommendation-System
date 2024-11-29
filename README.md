@@ -1,4 +1,4 @@
-# Music Player Website
+# Online Book Recommendation System
 
 This website offers recommendation system for books based on collaborative filtering.
 
@@ -17,7 +17,7 @@ This website offers recommendation system for books based on collaborative filte
 
 - Clone the repository:
     ```bash
-    git clone https://github.com/realhaadkhan/Music-Player-Website.git
+    git clone https://github.com/khanhaad/Online-Book-Recommendation-System.git
     ```
 - Or download the ZIP file:
     - Go to your GitHub repository.
